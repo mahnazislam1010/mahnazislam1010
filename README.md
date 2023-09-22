@@ -6,6 +6,7 @@
 <a href="https://linkedin.com/in/mahnaz-rafia-islam-12250a194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mahnaz-rafia-islam-12250a194/" height="30" width="40" /></a>
 <a href="https://fb.com/rafia.islam.1042" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rafia.islam.1042" height="30" width="40" /></a>
 <a href="https://instagram.com/rafia_islam909/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rafia_islam909/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mahnazrafiaislam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mahnazrafiaislam/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
